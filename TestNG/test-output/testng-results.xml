@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[System.out.println("Name of the link =" +Name)]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+    <line>
+      <![CDATA[Message]]>
+    </line>
+  </reporter-output>
+  <suite name="GrpTest" duration-ms="109181" started-at="2017-10-21T14:47:58Z" finished-at="2017-10-21T14:49:47Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="109181" started-at="2017-10-21T14:47:58Z" finished-at="2017-10-21T14:49:47Z">
+      <class name="Testing.Login">
+        <test-method status="PASS" signature="TestCase()[pri:0, instance:Testing.Login@5c3bd550]" name="TestCase" duration-ms="36769" started-at="2017-10-21T20:17:58Z" finished-at="2017-10-21T20:18:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase -->
+      </class> <!-- Testing.Login -->
+      <class name="Testing.Linksnewtours">
+        <test-method status="PASS" signature="newtours()[pri:0, instance:Testing.Linksnewtours@685cb137]" name="newtours" duration-ms="37975" started-at="2017-10-21T20:19:09Z" finished-at="2017-10-21T20:19:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+            <line>
+              <![CDATA[Message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- newtours -->
+      </class> <!-- Testing.Linksnewtours -->
+      <class name="Testing.LinksBing">
+        <test-method status="PASS" signature="Bing()[pri:0, instance:Testing.LinksBing@6a4f787b]" name="Bing" duration-ms="34248" started-at="2017-10-21T20:18:35Z" finished-at="2017-10-21T20:19:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+            <line>
+              <![CDATA[System.out.println("Name of the link =" +Name)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Bing -->
+      </class> <!-- Testing.LinksBing -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- GrpTest -->
+</testng-results>
