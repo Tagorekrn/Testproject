@@ -7,14 +7,65 @@
 </head>
 <body>
 <table>
-<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">GrpTest</th></tr>
-<tr><td><a href="#t0">Regression suite 1</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">109,181</td><td></td><td></td></tr>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">61,611</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">GrpTest</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Regression suite 1 &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">Testing.LinksBing</td><td><a href="#m0">Bing</a></td><td rowspan="1">1508597315099</td><td rowspan="1">34248</td></tr><tr class="passedodd"><td rowspan="1">Testing.Linksnewtours</td><td><a href="#m1">newtours</a></td><td rowspan="1">1508597349365</td><td rowspan="1">37975</td></tr><tr class="passedeven"><td rowspan="1">Testing.Login</td><td><a href="#m2">TestCase</a></td><td rowspan="1">1508597278313</td><td rowspan="1">36769</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">Testing.LinksBing</td><td><a href="#m0">Bing</a></td><td rowspan="1">1583390804282</td><td rowspan="1">61543</td></tr></tbody>
 </table>
-<h2>Regression suite 1</h2><h3 id="m0">Testing.LinksBing#Bing</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)<br/>System.out.println("Name of the link =" +Name)</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">Testing.Linksnewtours#newtours</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">Testing.Login#TestCase</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message<br/>Message</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Test</h2><h3 id="m0">Testing.LinksBing#Bing</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.WebDriverException: unknown error: unable to discover open pages
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:48&apos;
+System info: host: &apos;HYDPCM390779D6&apos;, ip: &apos;10.10.242.75&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;13.0.2&apos;
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00390C83+1707139]
+	Ordinal0 [0x002F68F1+1075441]
+	Ordinal0 [0x0026DFC9+516041]
+	Ordinal0 [0x002004C2+66754]
+	Ordinal0 [0x001FCCE2+52450]
+	Ordinal0 [0x0021BFD7+180183]
+	Ordinal0 [0x0021BDDD+179677]
+	Ordinal0 [0x00219D4B+171339]
+	Ordinal0 [0x00201D4A+73034]
+	Ordinal0 [0x00202DC0+77248]
+	Ordinal0 [0x00202D59+77145]
+	Ordinal0 [0x0030BB67+1162087]
+	GetHandleVerifier [0x0042A966+508998]
+	GetHandleVerifier [0x0042A6A4+508292]
+	GetHandleVerifier [0x0043F7B7+594583]
+	GetHandleVerifier [0x0042B1D6+511158]
+	Ordinal0 [0x0030402C+1130540]
+	Ordinal0 [0x0030D4CB+1168587]
+	Ordinal0 [0x0030D633+1168947]
+	Ordinal0 [0x00325B35+1268533]
+	BaseThreadInitThunk [0x76E56359+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67B74+228]
+	RtlGetAppContainerNamedObjectPath [0x77D67B44+180]
+
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:123)
+	at Testing.LinksBing.Bing(LinksBing.java:19)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

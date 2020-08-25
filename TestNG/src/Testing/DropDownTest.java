@@ -17,9 +17,9 @@ public class DropDownTest {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://jqueryui.com/droppable/");
 
-		List<WebElement> frames = driver.findElements(By.tagName("iframe"));
-		System.out.println(frames.size());
-		for(int i=0; i<frames.size(); i++) {
+		List<WebElement> frames1 = driver.findElements(By.tagName("iframe"));
+		System.out.println(frames1.size());
+		for(int i=0; i<frames1.size(); i++) {
 			driver.switchTo().frame(i);	
 		}
 		
